@@ -1,0 +1,31 @@
+{
+  "name": "hoc-nodejs-1",
+  "version": "1.0.0",
+  "description": "hoc-nodejs-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranduchieu2007nb-ux/hoc-nodejs-1.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tranduchieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranduchieu2007nb-ux/hoc-nodejs-1/issues"
+  },
+  "homepage": "https://github.com/tranduchieu2007nb-ux/hoc-nodejs-1#readme",
+  "dependencies": {
+    "dotenv": "17.4.2",
+    "express": "5.2.1",
+    "ejs": "5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.14"
+  }
+}
